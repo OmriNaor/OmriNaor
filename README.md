@@ -4,7 +4,7 @@
 
 - 👨‍💻 Check my repositories to see my projects
 
-- ⚡ Fun fact Java is my favorite language and I love to program games the most
+- ⚡ Fun fact I am a Marvel geek and one of the biggest life size statues collector
 
 
 <h3 align="left">Connect with me:</h3>
