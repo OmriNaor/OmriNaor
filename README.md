@@ -1,6 +1,6 @@
 ## Hey, Omri here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-- 🌱 I’m currently studying **B.Sc. in Computer Science and M.Sc. in Software Engineering**
+- 🌱 I’m currently studying **B.Sc. in Computer Science**
 
 - 👨‍💻 Check my repositories to see my projects
 
