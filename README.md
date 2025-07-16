@@ -1,12 +1,12 @@
 ## Hey, Omri here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-	•	🌱 Bachelor of Science in Computer Science (B.Sc.)
+• 🌱 Bachelor of Science in Computer Science (B.Sc.)
  
-	•	👨‍💻 Software Engineer at NVIDIA
+• 👨‍💻 Software Engineer at NVIDIA
  
-	•	📂 Check my repositories to explore my latest projects
+• 📂 Check my repositories to explore my latest projects
  
-	•	⚡ Fun fact: I’m a Marvel geek and one of the biggest life-size statue collectors
+•⚡ Fun fact: I’m a Marvel geek and one of the biggest life-size statue collectors
 
 
 
