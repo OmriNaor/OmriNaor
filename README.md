@@ -3,10 +3,6 @@
 • 🌱 Bachelor of Science in Computer Science (B.Sc.)
  
 • 👨‍💻 Software Engineer at NVIDIA
- 
-• 📂 Check my repositories to explore my latest projects
- 
-•⚡ Fun fact: I’m a Marvel geek and one of the biggest life-size statue collectors
 
 
 
